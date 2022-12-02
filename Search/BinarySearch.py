@@ -2,6 +2,7 @@ from typing import Union
 
 
 def binary_search(lst: Union[list, tuple], search_element):
+    """O(log n)"""
     # low - нижняя, high - верхняя границы поиска
     low = 0
     high = len(lst) - 1
@@ -18,8 +19,9 @@ def binary_search(lst: Union[list, tuple], search_element):
     return None
 
 
-my_list = (1, 3, 5, 7, 9)
+if __name__ == "__main__":
+    my_list = (1, 3, 5, 7, 9)
 
-assert binary_search(my_list, 3) == 1
-assert binary_search(my_list, 9) == 4
-assert binary_search(my_list, 7) == 3
+    assert binary_search(my_list, 3) == 1
+    assert binary_search(my_list, 9) == 4
+    assert binary_search(my_list, 7) == 3

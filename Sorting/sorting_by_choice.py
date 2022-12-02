@@ -1,3 +1,5 @@
+"""O(n ** 2)"""
+
 def find_smallest(arr):
     """возвращает индекс наименьшего элемента последовательности"""
     smallest = arr[0]
@@ -22,4 +24,5 @@ def selection_sort(arr: list):
     return new_arr
 
 
-assert selection_sort([5, 3, 6, 2, 10]) == [2, 3, 5, 6, 10]
+if __name__ == "__main__":
+    assert selection_sort([5, 3, 6, 2, 10]) == [2, 3, 5, 6, 10]

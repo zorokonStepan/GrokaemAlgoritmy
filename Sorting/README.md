@@ -18,7 +18,6 @@
         <th>O(n ** 2)</th>
         <th>O(n ** 2)</th>
         <th>O(n ** 2)</th>
-        <th>O(n ** 2)</th>
         <th>O(n log n)</th>
         <th>O(n log n)</th>
     </tr>
@@ -27,7 +26,6 @@
         <th>O(n ** 2)</th>
         <th>O(n ** 2)</th>
         <th></th>
-        <th>O(n ** 2)</th>
         <th>O(n ** 2)</th>
         <th>O(n ** 2)</th>
         <th>O(n log n)</th>
@@ -40,7 +38,6 @@
         <th>O(n)</th>
         <th>O(n log n)</th>
         <th>O(n)</th>
-        <th>O(n)</th>
         <th>O(n ** 2)</th>
         <th>O(n)</th>
         <th>O(n log n)</th>
@@ -51,7 +48,6 @@
         <th>O(1)</th>
         <th>O(1)</th>
         <th>O(1)</th>
-        <th>O(n)</th>
         <th>O(n)</th>
         <th>O(n)</th>
         <th>O(n)</th>

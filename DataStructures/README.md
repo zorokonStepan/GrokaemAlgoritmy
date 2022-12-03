@@ -24,6 +24,7 @@
         <th>O(n)</th>
         <th>O(1)</th>
         <th>O(log n)</th>
+        <th></th>
     </tr>
     <tr>
         <td>Удаление</td>
@@ -32,6 +33,7 @@
         <th>O(n)</th>
         <th>O(1)</th>
         <th>O(log n)</th>
+        <th></th>
     </tr>
 </table>
 

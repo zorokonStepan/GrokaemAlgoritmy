@@ -1,4 +1,4 @@
-<table style="text-align: center; vertical-align: middle;">
+<table>
     <tr>
         <th></th>
         <th>Хеш-таблица(средний случай)</th>
@@ -9,25 +9,25 @@
     </tr>
     <tr>
         <td>Поиск</td>
-        <td>O(1)</td>
-        <td>O(n)</td>
-        <td>O(1)</td>
-        <td>O(n)</td>
-        <td>O(log n)</td>
+        <th>O(1)</th>
+        <th>O(n)</th>
+        <th>O(1)</th>
+        <th>O(n)</th>
+        <th>O(log n)</th>
     </tr>
     <tr>
         <td>Вставка</td>
-        <td>O(1)</td>
-        <td>O(n)</td>
-        <td>O(n)</td>
-        <td>O(1)</td>
+        <th>O(1)</th>
+        <th>O(n)</th>
+        <th>O(n)</th>
+        <th>O(1)</th>
     </tr>
     <tr>
         <td>Удаление</td>
-        <td>O(1)</td>
-        <td>O(n)</td>
-        <td>O(n)</td>
-        <td>O(1)</td>
+        <th>O(1)</th>
+        <th>O(n)</th>
+        <th>O(n)</th>
+        <th>O(1)</th>
     </tr>
 </table>
 

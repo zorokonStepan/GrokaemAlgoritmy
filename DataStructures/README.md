@@ -1,4 +1,4 @@
-<table>
+<table align="center">
     <tr>
         <th></th>
         <th>Хеш-таблица(средний случай)</th>
